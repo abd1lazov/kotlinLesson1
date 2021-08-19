@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="#8B000000"
     android:orientation="vertical"
-    tools:context=".ETActivity2">
+    tools:context=".SecondActivity">
 
     <EditText
         android:id="@+id/getText"

@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <EditText
-        android:id="@+id/ET"
+        android:id="@+id/et"
         android:layout_width="350dp"
         android:layout_height="50dp"
         android:hint="@string/EditTextHint"
@@ -28,7 +28,7 @@
         android:fontFamily="sans-serif-condensed-light"
         android:textStyle="bold"
         android:textColor="@color/black"
-        android:layout_below="@+id/ET"
+        android:layout_below="@+id/et"
         android:layout_marginStart="30dp"
         android:layout_marginTop="10dp"/>
 
